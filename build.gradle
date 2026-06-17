@@ -1,0 +1,41 @@
+// irl-core — the BBS-free shared engine for IRLite and IRL-redactor.
+// Plain Java library (NO fabric-loom, NO Minecraft): the light SSBO + registry and
+// the .irlights shader patcher. Consumed by both mods via a Gradle composite build
+// (settings.gradle: includeBuild("../irl-core")) and bundled into each mod jar with
+// Loom's `include`. One Java-17 jar serves every MC version (1.20.1 / 1.20.4 / 1.21.11)
+// because it has zero Minecraft types.
+plugins {
+    id 'java-library'
+}
+
+group = 'org.qualet'
+version = '1.0.0'
+
+java {
+    // Target the LOWEST consumer (IRLite on MC 1.20.x = Java 17). Java-17 bytecode
+    // runs unchanged on the Java-21 runtime (IRL-redactor on 1.21.11).
+    sourceCompatibility = JavaVersion.VERSION_17
+    targetCompatibility = JavaVersion.VERSION_17
+    withSourcesJar()
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+    options.release = 17
+}
+
+repositories {
+    // Composite builds do NOT inherit repositories from the consumers — declare here.
+    mavenCentral()
+}
+
+dependencies {
+    // All supplied by the consuming Minecraft/Fabric runtime, so compileOnly: they
+    // are referenced for compilation but NOT bundled into the core jar.
+    //   - LWJGL OpenGL bindings: LightBuffer's GL SSBO calls. Pin to 3.3.1 (lowest
+    //     runtime, MC 1.20.1); OpenGL bindings are additive-stable across 3.3.x.
+    //   - slf4j-api: bundled by Fabric Loader at runtime in both mods.
+    compileOnly 'org.lwjgl:lwjgl:3.3.1'
+    compileOnly 'org.lwjgl:lwjgl-opengl:3.3.1'
+    compileOnly 'org.slf4j:slf4j-api:2.0.9'
+}
