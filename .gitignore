@@ -3,10 +3,12 @@
 /bin/
 
 
-# TEMP IGNORES FOR CAMERONCROW
+# TEMP IGNORES FOR CAMERONCROW (local-only: reference packs, scratch, notes)
 planning/
-Eclipse-Shader-Unstable/
-graphify-out/cache/
-graphify-out/.graphify_python
-grpahify-out/.graphify_root
 CLAUDE.md
+graphify-out/
+# reference shaderpacks kept on disk for re-anchoring, never committed
+Eclipse-Shader-Unstable/
+Bliss_v2.1.2_(Chocapic13_Shaders_edit)/
+# .irlights patch recipes ship in the consumer mods, not in core
+*.irlights
