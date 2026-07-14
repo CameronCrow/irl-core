@@ -1,3 +1,8 @@
+---
+type: reference
+tags: [repo/irl-core]
+up: "[[Repos/irl-core/docs/shadow-caster-seam-spec|shadow-caster-seam-spec]]"
+---
 # Shadow-orchestration lockstep (Ф4)
 
 > **Status: ACTIVE (option C+).** Phase 4 of `plan-shadow-seam-refactor`.
@@ -174,3 +179,10 @@ When the 1.20.4 ↔ 1.21.11 axis is collapsed, this lockstep doc remains the
 contract for IRLite ↔ redactor (1.20.4); Stonecutter directives in
 `ShadowRenderer.java` will only affect the GL leaf inside each per-mod copy,
 not the cross-mod parity captured here.
+
+## Related
+
+- [[Repos/irl-core/docs/shadow-caster-seam-spec|shadow-caster-seam-spec]] — the frozen contract this builds on
+- [[Repos/irl-core/docs/shadow-phase3-audit-verdict|shadow-phase3-audit-verdict]]
+- [[Repos/irl-core/docs/shadow-phase3-port-plan|shadow-phase3-port-plan]]
+- [[irl-core]] — repo hub

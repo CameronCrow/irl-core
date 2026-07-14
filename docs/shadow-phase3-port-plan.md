@@ -1,3 +1,8 @@
+---
+type: reference
+tags: [repo/irl-core]
+up: "[[Repos/irl-core/docs/shadow-caster-seam-spec|shadow-caster-seam-spec]]"
+---
 I have the frozen contract and all four maps. The plan is synthesized below — I have everything needed; no further file reads are required since the maps already carry verified line anchors.
 
 ---
@@ -235,3 +240,10 @@ If any fails: the orchestration is shared/correct on canon, so the suspect is al
 ---
 
 **Plan provenance:** canon orchestration = redactor `main@522c1f0` (Map A); IRLite target = `master@9953f31` (Map B); build/integration = Map C; BBS draw-arm extraction = Map D; invariants = frozen spec (read in full). Build-green is necessary but the §7 in-world gate is the real DoD.
+
+## Related
+
+- [[Repos/irl-core/docs/shadow-caster-seam-spec|shadow-caster-seam-spec]] — the frozen contract this ports against
+- [[Repos/irl-core/docs/shadow-phase3-audit-verdict|shadow-phase3-audit-verdict]]
+- [[Repos/irl-core/docs/shadow-orchestration-lockstep|shadow-orchestration-lockstep]]
+- [[irl-core]] — repo hub

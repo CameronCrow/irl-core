@@ -1,3 +1,8 @@
+---
+type: reference
+tags: [repo/irl-core]
+up: "[[irl-core]]"
+---
 # Eclipse shaderpack patch — port plan & context
 
 **Status:** planning complete, blocked on one external input (the real Bliss `.irlights` patch).
@@ -279,3 +284,8 @@ Build irl-core first: `./gradlew build` (JDK 17+). Output jar: `build/libs/irl-c
 ---
 
 *Authored from a read-only investigation of irl-core + the Eclipse tree. The patch engine, GLSL contract, and Eclipse structure are verified on disk; the Bliss patch source is the one missing input.*
+
+## Related
+
+- [[irl-core]] — repo hub
+- [[Repos/irl-core/docs/shadow-caster-seam-spec|shadow-caster-seam-spec]]

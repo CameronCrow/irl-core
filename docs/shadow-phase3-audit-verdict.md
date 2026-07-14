@@ -1,3 +1,8 @@
+---
+type: reference
+tags: [repo/irl-core]
+up: "[[Repos/irl-core/docs/shadow-caster-seam-spec|shadow-caster-seam-spec]]"
+---
 # Ф3 Adversarial Audit — Synthesizer Verdict
 
 ## 1. OVERALL: **SHIP** (with mandatory in-world gate)
@@ -79,3 +84,10 @@ Apply MAJOR-A fix **(a)**: in `irl-core/docs/shadow-caster-seam-spec.md`, correc
 - `ShadowRenderer.java` (`:234-256` emitCaster; `:295-301` re-establish)
 - `C:\Users\Qualet\Documents\Project\Minecraft\BBS\irl-core\docs\shadow-caster-seam-spec.md` (MAJOR-A doc fix)
 - `bbs-fs MobFormRenderer.java:352` + `ModelVAORenderer.java:42` (INV-1 live-modelview source)
+
+## Related
+
+- [[Repos/irl-core/docs/shadow-caster-seam-spec|shadow-caster-seam-spec]] — the frozen contract this audits
+- [[Repos/irl-core/docs/shadow-phase3-port-plan|shadow-phase3-port-plan]]
+- [[Repos/irl-core/docs/shadow-orchestration-lockstep|shadow-orchestration-lockstep]]
+- [[irl-core]] — repo hub

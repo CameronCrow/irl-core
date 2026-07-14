@@ -1,3 +1,8 @@
+---
+type: reference
+tags: [repo/irl-core]
+up: "[[irl-core]]"
+---
 # ShadowCasterSource — frozen seam contract (v2)
 
 > **Status: FROZEN (`readyToFreeze = true`).** Phase 1 of `plan-shadow-seam-refactor`.
@@ -534,3 +539,10 @@ form starts from the clean light modelview. Harmless/idempotent for the buffered
 (its draws read the passed `MatrixStack`, not the global modelview, until flush); necessary for
 IRLite's self-drawing forms. This also closes the matching latent hole in old IRLite. Verify via the
 mixed-caster in-world scene (a MobForm entity + a model block under one light).
+
+## Related
+
+- [[irl-core]] — repo hub
+- [[Repos/irl-core/docs/shadow-orchestration-lockstep|shadow-orchestration-lockstep]]
+- [[Repos/irl-core/docs/shadow-phase3-audit-verdict|shadow-phase3-audit-verdict]]
+- [[Repos/irl-core/docs/shadow-phase3-port-plan|shadow-phase3-port-plan]]
