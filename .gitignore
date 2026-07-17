@@ -6,7 +6,19 @@
 # TEMP IGNORES FOR CAMERONCROW (local-only: reference packs, scratch, notes)
 planning/
 CLAUDE.md
-graphify-out/
+
+# graphify: track the graph itself (graph.json, manifest.json, GRAPH_REPORT.md,
+# graph.html, cost.json) so it persists across machines; ignore regenerable
+# cache + machine-local hook/interpreter state (canonical block - see
+# git-hooks/README.md; the post-commit hook keeps this in sync everywhere)
+graphify-out/cache/
+graphify-out/.graphify_detect.err
+graphify-out/.graphify_python
+graphify-out/.graphify_root
+graphify-out/.commits_since_update
+graphify-out/.needs_update
+graphify-out/.hook_update.log
+graphify-out/20*/
 # reference shaderpacks kept on disk for re-anchoring, never committed
 Eclipse-Shader-Unstable/
 Bliss_v2.1.2_(Chocapic13_Shaders_edit)/

@@ -1,0 +1,112 @@
+{
+  "build.gradle": {
+    "mtime": 1782321047.034922,
+    "ast_hash": "ce45d8ab60ebbebc988ce52b435f6566",
+    "semantic_hash": "ce45d8ab60ebbebc988ce52b435f6566"
+  },
+  "gradlew": {
+    "mtime": 1782321047.0509079,
+    "ast_hash": "d71558d06a8c97628fdb0e38b0c36a2d",
+    "semantic_hash": "d71558d06a8c97628fdb0e38b0c36a2d"
+  },
+  "settings.gradle": {
+    "mtime": 1782321047.0509079,
+    "ast_hash": "2c58b440a061735000d835cbdbb02313",
+    "semantic_hash": "2c58b440a061735000d835cbdbb02313"
+  },
+  "src/main/java/org/qualet/irl/light/LightBuffer.java": {
+    "mtime": 1782321047.0509079,
+    "ast_hash": "6420701462b48c5aaa68f2d48f1c04af",
+    "semantic_hash": "6420701462b48c5aaa68f2d48f1c04af"
+  },
+  "src/main/java/org/qualet/irl/light/LightRegistry.java": {
+    "mtime": 1782321047.0509079,
+    "ast_hash": "5ff96619b48a3e800bb4966d8ba34638",
+    "semantic_hash": "5ff96619b48a3e800bb4966d8ba34638"
+  },
+  "src/main/java/org/qualet/irl/patcher/IrlPatch.java": {
+    "mtime": 1782321047.0509079,
+    "ast_hash": "e02259f0bee1e09fe6d542d558748f61",
+    "semantic_hash": "e02259f0bee1e09fe6d542d558748f61"
+  },
+  "src/main/java/org/qualet/irl/patcher/IrlPatchApplier.java": {
+    "mtime": 1782321047.0509079,
+    "ast_hash": "df050264293cf51ca30814ca1addbdf1",
+    "semantic_hash": "df050264293cf51ca30814ca1addbdf1"
+  },
+  "src/main/java/org/qualet/irl/patcher/IrlPatchParser.java": {
+    "mtime": 1782321047.0509079,
+    "ast_hash": "aafb1b940de0c8c26ecdfc0e7de96c6d",
+    "semantic_hash": "aafb1b940de0c8c26ecdfc0e7de96c6d"
+  },
+  "src/main/java/org/qualet/irl/patcher/PatchEngine.java": {
+    "mtime": 1782321047.0509079,
+    "ast_hash": "b405ea8e01f1510d135a6a44a78564c8",
+    "semantic_hash": "b405ea8e01f1510d135a6a44a78564c8"
+  },
+  "src/main/java/org/qualet/irl/patcher/PatchLibrary.java": {
+    "mtime": 1782321047.0509079,
+    "ast_hash": "759b661a65de0b90ae166a2cc1df3b36",
+    "semantic_hash": "759b661a65de0b90ae166a2cc1df3b36"
+  },
+  "src/main/java/org/qualet/irl/patcher/PatchResult.java": {
+    "mtime": 1782321047.0509079,
+    "ast_hash": "cb089895ff21204aa5cabc3c32c6fb00",
+    "semantic_hash": "cb089895ff21204aa5cabc3c32c6fb00"
+  },
+  "src/main/java/org/qualet/irl/patcher/Patcher.java": {
+    "mtime": 1782321047.0509079,
+    "ast_hash": "bfb43e8acfee0d60f25c17128c9a38a0",
+    "semantic_hash": "bfb43e8acfee0d60f25c17128c9a38a0"
+  },
+  "src/main/java/org/qualet/irl/patcher/PatcherHost.java": {
+    "mtime": 1782321047.0509079,
+    "ast_hash": "591c516a04db9354ffeff80497103881",
+    "semantic_hash": "591c516a04db9354ffeff80497103881"
+  },
+  "src/main/java/org/qualet/irl/patcher/Shaderpacks.java": {
+    "mtime": 1782321047.0509079,
+    "ast_hash": "59639429ea72e8c0a2e215b004782a86",
+    "semantic_hash": "59639429ea72e8c0a2e215b004782a86"
+  },
+  "src/main/resources/fabric.mod.json": {
+    "mtime": 1782321047.0509079,
+    "ast_hash": "5f8a8278054672f638ddf98cacfc7bfd",
+    "semantic_hash": "5f8a8278054672f638ddf98cacfc7bfd"
+  },
+  "tools/verify-shadow-lockstep.py": {
+    "mtime": 1782321047.0509079,
+    "ast_hash": "63cd84829f51b28ee6067f981fb58da4",
+    "semantic_hash": "63cd84829f51b28ee6067f981fb58da4"
+  },
+  "README.md": {
+    "mtime": 1782321047.034922,
+    "ast_hash": "7d9739bf03ebc6b7214db8fe6287039d",
+    "semantic_hash": "7d9739bf03ebc6b7214db8fe6287039d"
+  },
+  "docs/shadow-caster-seam-spec.md": {
+    "mtime": 1782321047.034922,
+    "ast_hash": "8ba61bea2586e4d56fb538959da39c20",
+    "semantic_hash": "8ba61bea2586e4d56fb538959da39c20"
+  },
+  "docs/shadow-orchestration-lockstep.md": {
+    "mtime": 1782321047.034922,
+    "ast_hash": "5c42deee68a28302a29a4285f6605f4a",
+    "semantic_hash": "5c42deee68a28302a29a4285f6605f4a"
+  },
+  "docs/shadow-phase3-audit-verdict.md": {
+    "mtime": 1782321047.0509079,
+    "ast_hash": "3efd3db2d6f0e9ef95374bdedc81eed9",
+    "semantic_hash": "3efd3db2d6f0e9ef95374bdedc81eed9"
+  },
+  "docs/shadow-phase3-port-plan.md": {
+    "mtime": 1782321047.0509079,
+    "ast_hash": "852f59f670b8579d427011dcb6ad6d81",
+    "semantic_hash": "852f59f670b8579d427011dcb6ad6d81"
+  },
+  "src/main/resources/assets/irl-core/icon.png": {
+    "mtime": 1782321047.0509079,
+    "ast_hash": "4762a549800cae759876939bf6426fa6",
+    "semantic_hash": "4762a549800cae759876939bf6426fa6"
+  }
+}
