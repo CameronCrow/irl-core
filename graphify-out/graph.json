@@ -49,6 +49,34 @@
   },
   "nodes": [
     {
+      "label": "workforce-plugin-fetch.sh",
+      "file_type": "code",
+      "source_file": ".claude/hooks/workforce-plugin-fetch.sh",
+      "source_location": "L1",
+      "metadata": {
+        "language": "bash",
+        "kind": "file"
+      },
+      "_origin": "ast",
+      "id": "hooks_workforce_plugin_fetch",
+      "community": 16,
+      "norm_label": "workforce-plugin-fetch.sh"
+    },
+    {
+      "label": "workforce-plugin-fetch.sh script",
+      "file_type": "code",
+      "source_file": ".claude/hooks/workforce-plugin-fetch.sh",
+      "source_location": "L1",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_entrypoint"
+      },
+      "_origin": "ast",
+      "id": "c_users_ccrow_projects_irl_core_claude_hooks_workforce_plugin_fetch_sh__entry",
+      "community": 16,
+      "norm_label": "workforce-plugin-fetch.sh script"
+    },
+    {
       "label": "build.gradle",
       "file_type": "code",
       "source_file": "build.gradle",
@@ -75,7 +103,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "light_lightbuffer",
-      "community": 7,
+      "community": 2,
       "norm_label": "lightbuffer.java"
     },
     {
@@ -85,7 +113,7 @@
       "source_location": "L30",
       "_origin": "ast",
       "id": "light_lightbuffer_lightbuffer",
-      "community": 7,
+      "community": 2,
       "norm_label": "lightbuffer"
     },
     {
@@ -95,7 +123,7 @@
       "source_location": "L50",
       "_origin": "ast",
       "id": "light_lightbuffer_lightbuffer_lightbuffer",
-      "community": 7,
+      "community": 2,
       "norm_label": ".lightbuffer()"
     },
     {
@@ -105,7 +133,7 @@
       "source_location": "L53",
       "_origin": "ast",
       "id": "light_lightbuffer_lightbuffer_init",
-      "community": 7,
+      "community": 2,
       "norm_label": ".init()"
     },
     {
@@ -115,7 +143,7 @@
       "source_location": "L70",
       "_origin": "ast",
       "id": "light_lightbuffer_lightbuffer_begin",
-      "community": 7,
+      "community": 2,
       "norm_label": ".begin()"
     },
     {
@@ -125,7 +153,7 @@
       "source_location": "L82",
       "_origin": "ast",
       "id": "light_lightbuffer_lightbuffer_addpoint",
-      "community": 7,
+      "community": 2,
       "norm_label": ".addpoint()"
     },
     {
@@ -135,7 +163,7 @@
       "source_location": "L99",
       "_origin": "ast",
       "id": "light_lightbuffer_lightbuffer_addspot",
-      "community": 7,
+      "community": 2,
       "norm_label": ".addspot()"
     },
     {
@@ -145,7 +173,7 @@
       "source_location": "L116",
       "_origin": "ast",
       "id": "light_lightbuffer_lightbuffer_upload",
-      "community": 7,
+      "community": 2,
       "norm_label": ".upload()"
     },
     {
@@ -155,7 +183,7 @@
       "source_location": "L140",
       "_origin": "ast",
       "id": "light_lightbuffer_lightbuffer_uploadempty",
-      "community": 7,
+      "community": 2,
       "norm_label": ".uploadempty()"
     },
     {
@@ -165,7 +193,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "light_lightbuffer_lightbuffer_delete",
-      "community": 7,
+      "community": 2,
       "norm_label": ".delete()"
     },
     {
@@ -365,7 +393,7 @@
       "source_location": "L161",
       "_origin": "ast",
       "id": "light_lightregistry_lightregistry_clear",
-      "community": 7,
+      "community": 2,
       "norm_label": ".clear()"
     },
     {
@@ -375,7 +403,7 @@
       "source_location": "L167",
       "_origin": "ast",
       "id": "light_lightregistry_lightregistry_flush",
-      "community": 7,
+      "community": 2,
       "norm_label": ".flush()"
     },
     {
@@ -675,7 +703,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "exception",
-      "community": 4,
+      "community": 8,
       "norm_label": "exception"
     },
     {
@@ -1415,7 +1443,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "docs_shadow_caster_seam_spec",
-      "community": 5,
+      "community": 7,
       "norm_label": "shadow-caster-seam-spec.md"
     },
     {
@@ -1715,7 +1743,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "docs_shadow_orchestration_lockstep",
-      "community": 5,
+      "community": 7,
       "norm_label": "shadow-orchestration-lockstep.md"
     },
     {
@@ -1725,7 +1753,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "docs_shadow_orchestration_lockstep_shadow_orchestration_lockstep_\u04444",
-      "community": 5,
+      "community": 7,
       "norm_label": "shadow-orchestration lockstep (\u04444)"
     },
     {
@@ -1735,7 +1763,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "docs_shadow_orchestration_lockstep_what_this_is",
-      "community": 5,
+      "community": 7,
       "norm_label": "what this is"
     },
     {
@@ -1745,7 +1773,7 @@
       "source_location": "L37",
       "_origin": "ast",
       "id": "docs_shadow_orchestration_lockstep_files_under_lockstep_14",
-      "community": 5,
+      "community": 7,
       "norm_label": "files under lockstep (14)"
     },
     {
@@ -1755,7 +1783,7 @@
       "source_location": "L64",
       "_origin": "ast",
       "id": "docs_shadow_orchestration_lockstep_files_not_under_lockstep_per_mod",
-      "community": 5,
+      "community": 7,
       "norm_label": "files not under lockstep (per-mod)"
     },
     {
@@ -1765,7 +1793,7 @@
       "source_location": "L78",
       "_origin": "ast",
       "id": "docs_shadow_orchestration_lockstep_allowlisted_divergences",
-      "community": 5,
+      "community": 7,
       "norm_label": "allowlisted divergences"
     },
     {
@@ -1775,7 +1803,7 @@
       "source_location": "L97",
       "_origin": "ast",
       "id": "docs_shadow_orchestration_lockstep_how_to_run",
-      "community": 5,
+      "community": 7,
       "norm_label": "how to run"
     },
     {
@@ -1785,7 +1813,7 @@
       "source_location": "L121",
       "_origin": "ast",
       "id": "docs_shadow_orchestration_lockstep_what_to_do_when_the_verifier_fails",
-      "community": 5,
+      "community": 7,
       "norm_label": "what to do when the verifier fails"
     },
     {
@@ -1795,7 +1823,7 @@
       "source_location": "L143",
       "_origin": "ast",
       "id": "docs_shadow_orchestration_lockstep_adding_a_new_orchestration_file_to_the_lockstep_set",
-      "community": 5,
+      "community": 7,
       "norm_label": "adding a new orchestration file to the lockstep set"
     },
     {
@@ -1805,7 +1833,7 @@
       "source_location": "L152",
       "_origin": "ast",
       "id": "docs_shadow_orchestration_lockstep_adding_a_new_per_mod_seam_impl",
-      "community": 5,
+      "community": 7,
       "norm_label": "adding a new per-mod seam impl"
     },
     {
@@ -1815,7 +1843,7 @@
       "source_location": "L160",
       "_origin": "ast",
       "id": "docs_shadow_orchestration_lockstep_limitations_and_what_comes_next",
-      "community": 5,
+      "community": 7,
       "norm_label": "limitations and what comes next"
     },
     {
@@ -1825,7 +1853,7 @@
       "source_location": "L176",
       "_origin": "ast",
       "id": "docs_shadow_orchestration_lockstep_hand_off_to_\u04445_stonecutter",
-      "community": 5,
+      "community": 7,
       "norm_label": "hand-off to \u04445 (stonecutter)"
     },
     {
@@ -1835,7 +1863,7 @@
       "source_location": "L183",
       "_origin": "ast",
       "id": "docs_shadow_orchestration_lockstep_related",
-      "community": 5,
+      "community": 7,
       "norm_label": "related"
     },
     {
@@ -2784,6 +2812,16 @@
     }
   ],
   "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/hooks/workforce-plugin-fetch.sh",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "hooks_workforce_plugin_fetch",
+      "target": "c_users_ccrow_projects_irl_core_claude_hooks_workforce_plugin_fetch_sh__entry",
+      "confidence_score": 1.0
+    },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
@@ -5709,9 +5747,9 @@
       "source_file": "README.md",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme",
-      "target": "readme_irl_core",
-      "confidence_score": 1.0
+      "target": "readme_irl_core"
     },
     {
       "relation": "contains",
@@ -5719,9 +5757,9 @@
       "source_file": "README.md",
       "source_location": "L57",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_irl_core",
-      "target": "readme_building",
-      "confidence_score": 1.0
+      "target": "readme_building"
     },
     {
       "relation": "contains",
@@ -5729,9 +5767,9 @@
       "source_file": "README.md",
       "source_location": "L39",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_irl_core",
-      "target": "readme_how_it_s_consumed",
-      "confidence_score": 1.0
+      "target": "readme_how_it_s_consumed"
     },
     {
       "relation": "contains",
@@ -5739,9 +5777,9 @@
       "source_file": "README.md",
       "source_location": "L78",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_irl_core",
-      "target": "readme_license",
-      "confidence_score": 1.0
+      "target": "readme_license"
     },
     {
       "relation": "references",
@@ -5769,9 +5807,9 @@
       "source_file": "README.md",
       "source_location": "L68",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_irl_core",
-      "target": "readme_the_trilogy",
-      "confidence_score": 1.0
+      "target": "readme_the_trilogy"
     },
     {
       "relation": "contains",
@@ -5779,9 +5817,9 @@
       "source_file": "README.md",
       "source_location": "L17",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_irl_core",
-      "target": "readme_what_is_irl_core",
-      "confidence_score": 1.0
+      "target": "readme_what_is_irl_core"
     },
     {
       "relation": "contains",
@@ -5789,9 +5827,9 @@
       "source_file": "README.md",
       "source_location": "L28",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_irl_core",
-      "target": "readme_what_s_inside",
-      "confidence_score": 1.0
+      "target": "readme_what_s_inside"
     },
     {
       "relation": "references",
@@ -5819,9 +5857,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec",
-      "target": "docs_shadow_caster_seam_spec_shadowcastersource_frozen_seam_contract_v2",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_shadowcastersource_frozen_seam_contract_v2"
     },
     {
       "relation": "references",
@@ -5829,9 +5867,9 @@
       "source_file": "docs/shadow-orchestration-lockstep.md",
       "source_location": "L10",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_orchestration_lockstep",
-      "target": "docs_shadow_caster_seam_spec",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec"
     },
     {
       "relation": "contains",
@@ -5839,9 +5877,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L44",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_shadowcastersource_frozen_seam_contract_v2",
-      "target": "docs_shadow_caster_seam_spec_architecture",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_architecture"
     },
     {
       "relation": "contains",
@@ -5849,9 +5887,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L511",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_shadowcastersource_frozen_seam_contract_v2",
-      "target": "docs_shadow_caster_seam_spec_erratum_inv_1_vs_self_drawing_bbs_forms_added_2026_06_17_\u04443_audit",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_erratum_inv_1_vs_self_drawing_bbs_forms_added_2026_06_17_\u04443_audit"
     },
     {
       "relation": "contains",
@@ -5859,9 +5897,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L86",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_shadowcastersource_frozen_seam_contract_v2",
-      "target": "docs_shadow_caster_seam_spec_frozen_interfaces",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_frozen_interfaces"
     },
     {
       "relation": "contains",
@@ -5869,9 +5907,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L497",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_shadowcastersource_frozen_seam_contract_v2",
-      "target": "docs_shadow_caster_seam_spec_how_to_use_this_spec_entering_\u04442_\u04443",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_how_to_use_this_spec_entering_\u04442_\u04443"
     },
     {
       "relation": "contains",
@@ -5879,9 +5917,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L343",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_shadowcastersource_frozen_seam_contract_v2",
-      "target": "docs_shadow_caster_seam_spec_per_variant_implementation_sketches",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_per_variant_implementation_sketches"
     },
     {
       "relation": "contains",
@@ -5889,9 +5927,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L393",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_shadowcastersource_frozen_seam_contract_v2",
-      "target": "docs_shadow_caster_seam_spec_re_anchored_seam_anchors_freeze_commits_re_verify_before_editing",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_re_anchored_seam_anchors_freeze_commits_re_verify_before_editing"
     },
     {
       "relation": "contains",
@@ -5899,9 +5937,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L543",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_shadowcastersource_frozen_seam_contract_v2",
-      "target": "docs_shadow_caster_seam_spec_related",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_related"
     },
     {
       "relation": "contains",
@@ -5909,9 +5947,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L485",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_shadowcastersource_frozen_seam_contract_v2",
-      "target": "docs_shadow_caster_seam_spec_residual_open_questions_implementer_latitude_not_blockers",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_residual_open_questions_implementer_latitude_not_blockers"
     },
     {
       "relation": "contains",
@@ -5919,9 +5957,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L236",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_shadowcastersource_frozen_seam_contract_v2",
-      "target": "docs_shadow_caster_seam_spec_the_5_load_bearing_invariants_final_hardened",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_the_5_load_bearing_invariants_final_hardened"
     },
     {
       "relation": "contains",
@@ -5929,9 +5967,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L69",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_shadowcastersource_frozen_seam_contract_v2",
-      "target": "docs_shadow_caster_seam_spec_the_shared_occluder_model_must_be_preserved",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_the_shared_occluder_model_must_be_preserved"
     },
     {
       "relation": "contains",
@@ -5939,9 +5977,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L455",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_shadowcastersource_frozen_seam_contract_v2",
-      "target": "docs_shadow_caster_seam_spec_what_the_adversarial_pass_found_changelog_all_accepted_none_wrongly_rejected",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_what_the_adversarial_pass_found_changelog_all_accepted_none_wrongly_rejected"
     },
     {
       "relation": "contains",
@@ -5949,9 +5987,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L26",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_shadowcastersource_frozen_seam_contract_v2",
-      "target": "docs_shadow_caster_seam_spec_\u043f\u0440\u043e\u0441\u0442\u043e\u0435_\u043e\u0431\u044a\u044f\u0441\u043d\u0435\u043d\u0438\u0435_\u0434\u043b\u044f_\u043e\u0442\u0447\u0451\u0442\u043e\u0432_\u0434\u043e\u0441\u043b\u043e\u0432\u043d\u043e_\u0438\u0437_\u043f\u043b\u0430\u043d\u0430",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_\u043f\u0440\u043e\u0441\u0442\u043e\u0435_\u043e\u0431\u044a\u044f\u0441\u043d\u0435\u043d\u0438\u0435_\u0434\u043b\u044f_\u043e\u0442\u0447\u0451\u0442\u043e\u0432_\u0434\u043e\u0441\u043b\u043e\u0432\u043d\u043e_\u0438\u0437_\u043f\u043b\u0430\u043d\u0430"
     },
     {
       "relation": "contains",
@@ -5959,9 +5997,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L200",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_frozen_interfaces",
-      "target": "docs_shadow_caster_seam_spec_castertype_neutral_tag_holder_change_8",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_castertype_neutral_tag_holder_change_8"
     },
     {
       "relation": "contains",
@@ -5969,9 +6007,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L183",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_frozen_interfaces",
-      "target": "docs_shadow_caster_seam_spec_occluderbatch_opaque_batch_handle_shared_inv_4_hooks",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_occluderbatch_opaque_batch_handle_shared_inv_4_hooks"
     },
     {
       "relation": "contains",
@@ -5979,9 +6017,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L150",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_frozen_interfaces",
-      "target": "docs_shadow_caster_seam_spec_occludersink_allocation_free_soa_writer",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_occludersink_allocation_free_soa_writer"
     },
     {
       "relation": "contains",
@@ -5989,9 +6027,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L93",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_frozen_interfaces",
-      "target": "docs_shadow_caster_seam_spec_shadowcastersource_the_only_thing_a_variant_supplies",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_shadowcastersource_the_only_thing_a_variant_supplies"
     },
     {
       "relation": "contains",
@@ -5999,9 +6037,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L211",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_frozen_interfaces",
-      "target": "docs_shadow_caster_seam_spec_shadowoccluders_drawblockoccluders_shared_block_helper_outside_the_bbs_seam",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_shadowoccluders_drawblockoccluders_shared_block_helper_outside_the_bbs_seam"
     },
     {
       "relation": "contains",
@@ -6009,9 +6047,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L241",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_the_5_load_bearing_invariants_final_hardened",
-      "target": "docs_shadow_caster_seam_spec_inv_1_matrix_corruption_conditional_re_establish_last_before_draw_pinned_ordering",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_inv_1_matrix_corruption_conditional_re_establish_last_before_draw_pinned_ordering"
     },
     {
       "relation": "contains",
@@ -6019,9 +6057,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L266",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_the_5_load_bearing_invariants_final_hardened",
-      "target": "docs_shadow_caster_seam_spec_inv_2_static_vs_dynamic_split_decoupled_from_the_draw_path_tag",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_inv_2_static_vs_dynamic_split_decoupled_from_the_draw_path_tag"
     },
     {
       "relation": "contains",
@@ -6029,9 +6067,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L284",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_the_5_load_bearing_invariants_final_hardened",
-      "target": "docs_shadow_caster_seam_spec_inv_3_statichash_avalanche_mixed_count_folded_injective_over_the_static_multiset",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_inv_3_statichash_avalanche_mixed_count_folded_injective_over_the_static_multiset"
     },
     {
       "relation": "contains",
@@ -6039,9 +6077,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L303",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_the_5_load_bearing_invariants_final_hardened",
-      "target": "docs_shadow_caster_seam_spec_inv_4_exception_isolation_and_vertex_run_isolation_in_the_shared_wrapper",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_inv_4_exception_isolation_and_vertex_run_isolation_in_the_shared_wrapper"
     },
     {
       "relation": "contains",
@@ -6049,9 +6087,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L320",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_the_5_load_bearing_invariants_final_hardened",
-      "target": "docs_shadow_caster_seam_spec_inv_5_bounding_sphere_convention_circumscribing_radius_from_the_rotated_box_diagonal",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_inv_5_bounding_sphere_convention_circumscribing_radius_from_the_rotated_box_diagonal"
     },
     {
       "relation": "contains",
@@ -6059,9 +6097,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L373",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_per_variant_implementation_sketches",
-      "target": "docs_shadow_caster_seam_spec_irlite_1_20_1_1_20_4_bbs_form_film_morph_exercises_inv_2_3_4",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_irlite_1_20_1_1_20_4_bbs_form_film_morph_exercises_inv_2_3_4"
     },
     {
       "relation": "contains",
@@ -6069,9 +6107,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L345",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_per_variant_implementation_sketches",
-      "target": "docs_shadow_caster_seam_spec_redactor_main_1_20_4_canon_real_vanilla_model",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_redactor_main_1_20_4_canon_real_vanilla_model"
     },
     {
       "relation": "contains",
@@ -6079,9 +6117,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L358",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_per_variant_implementation_sketches",
-      "target": "docs_shadow_caster_seam_spec_redactor_port_1_21_11_degenerate_box_blob_raw_gl_verified_in_source",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_redactor_port_1_21_11_degenerate_box_blob_raw_gl_verified_in_source"
     },
     {
       "relation": "contains",
@@ -6089,9 +6127,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L432",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_re_anchored_seam_anchors_freeze_commits_re_verify_before_editing",
-      "target": "docs_shadow_caster_seam_spec_irlite_1_20_1_1_20_4_shadowbaker_1340_ln_shadowrenderer_782_ln",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_irlite_1_20_1_1_20_4_shadowbaker_1340_ln_shadowrenderer_782_ln"
     },
     {
       "relation": "contains",
@@ -6099,9 +6137,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L395",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_re_anchored_seam_anchors_freeze_commits_re_verify_before_editing",
-      "target": "docs_shadow_caster_seam_spec_redactor_main_1_20_4_shadowbaker_1213_ln_shadowrenderer_901_ln",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_redactor_main_1_20_4_shadowbaker_1213_ln_shadowrenderer_901_ln"
     },
     {
       "relation": "contains",
@@ -6109,9 +6147,9 @@
       "source_file": "docs/shadow-caster-seam-spec.md",
       "source_location": "L415",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_caster_seam_spec_re_anchored_seam_anchors_freeze_commits_re_verify_before_editing",
-      "target": "docs_shadow_caster_seam_spec_redactor_port_1_21_11_shadowbaker_1199_ln_shadowrenderer_1090_ln",
-      "confidence_score": 1.0
+      "target": "docs_shadow_caster_seam_spec_redactor_port_1_21_11_shadowbaker_1199_ln_shadowrenderer_1090_ln"
     },
     {
       "relation": "contains",
@@ -6119,9 +6157,9 @@
       "source_file": "docs/shadow-orchestration-lockstep.md",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_orchestration_lockstep",
-      "target": "docs_shadow_orchestration_lockstep_shadow_orchestration_lockstep_\u04444",
-      "confidence_score": 1.0
+      "target": "docs_shadow_orchestration_lockstep_shadow_orchestration_lockstep_\u04444"
     },
     {
       "relation": "contains",
@@ -6129,9 +6167,9 @@
       "source_file": "docs/shadow-orchestration-lockstep.md",
       "source_location": "L143",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_orchestration_lockstep_shadow_orchestration_lockstep_\u04444",
-      "target": "docs_shadow_orchestration_lockstep_adding_a_new_orchestration_file_to_the_lockstep_set",
-      "confidence_score": 1.0
+      "target": "docs_shadow_orchestration_lockstep_adding_a_new_orchestration_file_to_the_lockstep_set"
     },
     {
       "relation": "contains",
@@ -6139,9 +6177,9 @@
       "source_file": "docs/shadow-orchestration-lockstep.md",
       "source_location": "L152",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_orchestration_lockstep_shadow_orchestration_lockstep_\u04444",
-      "target": "docs_shadow_orchestration_lockstep_adding_a_new_per_mod_seam_impl",
-      "confidence_score": 1.0
+      "target": "docs_shadow_orchestration_lockstep_adding_a_new_per_mod_seam_impl"
     },
     {
       "relation": "contains",
@@ -6149,9 +6187,9 @@
       "source_file": "docs/shadow-orchestration-lockstep.md",
       "source_location": "L78",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_orchestration_lockstep_shadow_orchestration_lockstep_\u04444",
-      "target": "docs_shadow_orchestration_lockstep_allowlisted_divergences",
-      "confidence_score": 1.0
+      "target": "docs_shadow_orchestration_lockstep_allowlisted_divergences"
     },
     {
       "relation": "contains",
@@ -6159,9 +6197,9 @@
       "source_file": "docs/shadow-orchestration-lockstep.md",
       "source_location": "L64",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_orchestration_lockstep_shadow_orchestration_lockstep_\u04444",
-      "target": "docs_shadow_orchestration_lockstep_files_not_under_lockstep_per_mod",
-      "confidence_score": 1.0
+      "target": "docs_shadow_orchestration_lockstep_files_not_under_lockstep_per_mod"
     },
     {
       "relation": "contains",
@@ -6169,9 +6207,9 @@
       "source_file": "docs/shadow-orchestration-lockstep.md",
       "source_location": "L37",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_orchestration_lockstep_shadow_orchestration_lockstep_\u04444",
-      "target": "docs_shadow_orchestration_lockstep_files_under_lockstep_14",
-      "confidence_score": 1.0
+      "target": "docs_shadow_orchestration_lockstep_files_under_lockstep_14"
     },
     {
       "relation": "contains",
@@ -6179,9 +6217,9 @@
       "source_file": "docs/shadow-orchestration-lockstep.md",
       "source_location": "L176",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_orchestration_lockstep_shadow_orchestration_lockstep_\u04444",
-      "target": "docs_shadow_orchestration_lockstep_hand_off_to_\u04445_stonecutter",
-      "confidence_score": 1.0
+      "target": "docs_shadow_orchestration_lockstep_hand_off_to_\u04445_stonecutter"
     },
     {
       "relation": "contains",
@@ -6189,9 +6227,9 @@
       "source_file": "docs/shadow-orchestration-lockstep.md",
       "source_location": "L97",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_orchestration_lockstep_shadow_orchestration_lockstep_\u04444",
-      "target": "docs_shadow_orchestration_lockstep_how_to_run",
-      "confidence_score": 1.0
+      "target": "docs_shadow_orchestration_lockstep_how_to_run"
     },
     {
       "relation": "contains",
@@ -6199,9 +6237,9 @@
       "source_file": "docs/shadow-orchestration-lockstep.md",
       "source_location": "L160",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_orchestration_lockstep_shadow_orchestration_lockstep_\u04444",
-      "target": "docs_shadow_orchestration_lockstep_limitations_and_what_comes_next",
-      "confidence_score": 1.0
+      "target": "docs_shadow_orchestration_lockstep_limitations_and_what_comes_next"
     },
     {
       "relation": "contains",
@@ -6209,9 +6247,9 @@
       "source_file": "docs/shadow-orchestration-lockstep.md",
       "source_location": "L183",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_orchestration_lockstep_shadow_orchestration_lockstep_\u04444",
-      "target": "docs_shadow_orchestration_lockstep_related",
-      "confidence_score": 1.0
+      "target": "docs_shadow_orchestration_lockstep_related"
     },
     {
       "relation": "contains",
@@ -6219,9 +6257,9 @@
       "source_file": "docs/shadow-orchestration-lockstep.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_orchestration_lockstep_shadow_orchestration_lockstep_\u04444",
-      "target": "docs_shadow_orchestration_lockstep_what_this_is",
-      "confidence_score": 1.0
+      "target": "docs_shadow_orchestration_lockstep_what_this_is"
     },
     {
       "relation": "contains",
@@ -6229,9 +6267,9 @@
       "source_file": "docs/shadow-orchestration-lockstep.md",
       "source_location": "L121",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_orchestration_lockstep_shadow_orchestration_lockstep_\u04444",
-      "target": "docs_shadow_orchestration_lockstep_what_to_do_when_the_verifier_fails",
-      "confidence_score": 1.0
+      "target": "docs_shadow_orchestration_lockstep_what_to_do_when_the_verifier_fails"
     },
     {
       "relation": "contains",
@@ -6239,9 +6277,9 @@
       "source_file": "docs/shadow-phase3-audit-verdict.md",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_audit_verdict",
-      "target": "docs_shadow_phase3_audit_verdict_\u04443_adversarial_audit_synthesizer_verdict",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_audit_verdict_\u04443_adversarial_audit_synthesizer_verdict"
     },
     {
       "relation": "contains",
@@ -6249,9 +6287,9 @@
       "source_file": "docs/shadow-phase3-audit-verdict.md",
       "source_location": "L8",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_audit_verdict_\u04443_adversarial_audit_synthesizer_verdict",
-      "target": "docs_shadow_phase3_audit_verdict_1_overall_ship_with_mandatory_in_world_gate",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_audit_verdict_1_overall_ship_with_mandatory_in_world_gate"
     },
     {
       "relation": "contains",
@@ -6259,9 +6297,9 @@
       "source_file": "docs/shadow-phase3-audit-verdict.md",
       "source_location": "L28",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_audit_verdict_\u04443_adversarial_audit_synthesizer_verdict",
-      "target": "docs_shadow_phase3_audit_verdict_2_blockers_and_majors_deduped",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_audit_verdict_2_blockers_and_majors_deduped"
     },
     {
       "relation": "contains",
@@ -6269,9 +6307,9 @@
       "source_file": "docs/shadow-phase3-audit-verdict.md",
       "source_location": "L52",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_audit_verdict_\u04443_adversarial_audit_synthesizer_verdict",
-      "target": "docs_shadow_phase3_audit_verdict_3_minors_nits",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_audit_verdict_3_minors_nits"
     },
     {
       "relation": "contains",
@@ -6279,9 +6317,9 @@
       "source_file": "docs/shadow-phase3-audit-verdict.md",
       "source_location": "L62",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_audit_verdict_\u04443_adversarial_audit_synthesizer_verdict",
-      "target": "docs_shadow_phase3_audit_verdict_4_in_world_gate_checklist_ordered_by_likelihood_of_failure_given_the_findings",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_audit_verdict_4_in_world_gate_checklist_ordered_by_likelihood_of_failure_given_the_findings"
     },
     {
       "relation": "contains",
@@ -6289,9 +6327,9 @@
       "source_file": "docs/shadow-phase3-audit-verdict.md",
       "source_location": "L77",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_audit_verdict_\u04443_adversarial_audit_synthesizer_verdict",
-      "target": "docs_shadow_phase3_audit_verdict_pre_ship_doc_edit_the_only_thing_recommended_before_in_world",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_audit_verdict_pre_ship_doc_edit_the_only_thing_recommended_before_in_world"
     },
     {
       "relation": "contains",
@@ -6299,9 +6337,9 @@
       "source_file": "docs/shadow-phase3-audit-verdict.md",
       "source_location": "L88",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_audit_verdict_\u04443_adversarial_audit_synthesizer_verdict",
-      "target": "docs_shadow_phase3_audit_verdict_related",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_audit_verdict_related"
     },
     {
       "relation": "contains",
@@ -6309,9 +6347,9 @@
       "source_file": "docs/shadow-phase3-audit-verdict.md",
       "source_location": "L32",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_audit_verdict_2_blockers_and_majors_deduped",
-      "target": "docs_shadow_phase3_audit_verdict_major_a_contract_inv_1_claim_is_false_for_self_drawing_bbs_forms_doc_fix_only_not_a_seam_regression",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_audit_verdict_major_a_contract_inv_1_claim_is_false_for_self_drawing_bbs_forms_doc_fix_only_not_a_seam_regression"
     },
     {
       "relation": "contains",
@@ -6319,9 +6357,9 @@
       "source_file": "docs/shadow-phase3-audit-verdict.md",
       "source_location": "L42",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_audit_verdict_2_blockers_and_majors_deduped",
-      "target": "docs_shadow_phase3_audit_verdict_major_b_inv_5_under_bound_for_off_vertical_rotate_x_z_model_blocks_real_defect_partially_closed_pre_existing_class",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_audit_verdict_major_b_inv_5_under_bound_for_off_vertical_rotate_x_z_model_blocks_real_defect_partially_closed_pre_existing_class"
     },
     {
       "relation": "contains",
@@ -6329,9 +6367,9 @@
       "source_file": "docs/shadow-phase3-audit-verdict.md",
       "source_location": "L30",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_audit_verdict_2_blockers_and_majors_deduped",
-      "target": "docs_shadow_phase3_audit_verdict_no_blockers",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_audit_verdict_no_blockers"
     },
     {
       "relation": "contains",
@@ -6339,9 +6377,9 @@
       "source_file": "docs/shadow-phase3-port-plan.md",
       "source_location": "L10",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_port_plan",
-      "target": "docs_shadow_phase3_port_plan_\u04443_port_plan_irlite_onto_the_canon_seamed_shadow_orchestration",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_port_plan_\u04443_port_plan_irlite_onto_the_canon_seamed_shadow_orchestration"
     },
     {
       "relation": "contains",
@@ -6349,9 +6387,9 @@
       "source_file": "docs/shadow-phase3-port-plan.md",
       "source_location": "L22",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_port_plan_\u04443_port_plan_irlite_onto_the_canon_seamed_shadow_orchestration",
-      "target": "docs_shadow_phase3_port_plan_0_pre_flight_invariants_read_before_touching_code",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_port_plan_0_pre_flight_invariants_read_before_touching_code"
     },
     {
       "relation": "contains",
@@ -6359,9 +6397,9 @@
       "source_file": "docs/shadow-phase3-port-plan.md",
       "source_location": "L30",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_port_plan_\u04443_port_plan_irlite_onto_the_canon_seamed_shadow_orchestration",
-      "target": "docs_shadow_phase3_port_plan_1_seam_files_copy_verbatim_package_line_only",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_port_plan_1_seam_files_copy_verbatim_package_line_only"
     },
     {
       "relation": "contains",
@@ -6369,9 +6407,9 @@
       "source_file": "docs/shadow-phase3-port-plan.md",
       "source_location": "L46",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_port_plan_\u04443_port_plan_irlite_onto_the_canon_seamed_shadow_orchestration",
-      "target": "docs_shadow_phase3_port_plan_2_orchestration_bring_canon_shadowbaker_shadowrenderer_into_irlite",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_port_plan_2_orchestration_bring_canon_shadowbaker_shadowrenderer_into_irlite"
     },
     {
       "relation": "contains",
@@ -6379,9 +6417,9 @@
       "source_file": "docs/shadow-phase3-port-plan.md",
       "source_location": "L95",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_port_plan_\u04443_port_plan_irlite_onto_the_canon_seamed_shadow_orchestration",
-      "target": "docs_shadow_phase3_port_plan_3_new_file_irlitebbscastersource_java",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_port_plan_3_new_file_irlitebbscastersource_java"
     },
     {
       "relation": "contains",
@@ -6389,9 +6427,9 @@
       "source_file": "docs/shadow-phase3-port-plan.md",
       "source_location": "L158",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_port_plan_\u04443_port_plan_irlite_onto_the_canon_seamed_shadow_orchestration",
-      "target": "docs_shadow_phase3_port_plan_4_block_cast_shared_bbs_free_sibling_reconciliation",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_port_plan_4_block_cast_shared_bbs_free_sibling_reconciliation"
     },
     {
       "relation": "contains",
@@ -6399,9 +6437,9 @@
       "source_file": "docs/shadow-phase3-port-plan.md",
       "source_location": "L170",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_port_plan_\u04443_port_plan_irlite_onto_the_canon_seamed_shadow_orchestration",
-      "target": "docs_shadow_phase3_port_plan_5_build_wiring_changes_green_build_dod",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_port_plan_5_build_wiring_changes_green_build_dod"
     },
     {
       "relation": "contains",
@@ -6409,9 +6447,9 @@
       "source_file": "docs/shadow-phase3-port-plan.md",
       "source_location": "L190",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_port_plan_\u04443_port_plan_irlite_onto_the_canon_seamed_shadow_orchestration",
-      "target": "docs_shadow_phase3_port_plan_6_execution_order_numbered_dependency_ordered",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_port_plan_6_execution_order_numbered_dependency_ordered"
     },
     {
       "relation": "contains",
@@ -6419,9 +6457,9 @@
       "source_file": "docs/shadow-phase3-port-plan.md",
       "source_location": "L210",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_port_plan_\u04443_port_plan_irlite_onto_the_canon_seamed_shadow_orchestration",
-      "target": "docs_shadow_phase3_port_plan_7_in_world_invariant_gate_mandatory_user_eyeballs",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_port_plan_7_in_world_invariant_gate_mandatory_user_eyeballs"
     },
     {
       "relation": "contains",
@@ -6429,9 +6467,9 @@
       "source_file": "docs/shadow-phase3-port-plan.md",
       "source_location": "L226",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_port_plan_\u04443_port_plan_irlite_onto_the_canon_seamed_shadow_orchestration",
-      "target": "docs_shadow_phase3_port_plan_8_open_questions_risks_needing_a_human_decision",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_port_plan_8_open_questions_risks_needing_a_human_decision"
     },
     {
       "relation": "contains",
@@ -6439,9 +6477,9 @@
       "source_file": "docs/shadow-phase3-port-plan.md",
       "source_location": "L244",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_port_plan_\u04443_port_plan_irlite_onto_the_canon_seamed_shadow_orchestration",
-      "target": "docs_shadow_phase3_port_plan_related",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_port_plan_related"
     },
     {
       "relation": "contains",
@@ -6449,9 +6487,9 @@
       "source_file": "docs/shadow-phase3-port-plan.md",
       "source_location": "L50",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_port_plan_2_orchestration_bring_canon_shadowbaker_shadowrenderer_into_irlite",
-      "target": "docs_shadow_phase3_port_plan_s6_shadowbaker_java_canon_irl_redactor_shadow_shadowbaker_java_1251_ln_irlite_shadow_shadowbaker_java",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_port_plan_s6_shadowbaker_java_canon_irl_redactor_shadow_shadowbaker_java_1251_ln_irlite_shadow_shadowbaker_java"
     },
     {
       "relation": "contains",
@@ -6459,9 +6497,9 @@
       "source_file": "docs/shadow-phase3-port-plan.md",
       "source_location": "L70",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_port_plan_2_orchestration_bring_canon_shadowbaker_shadowrenderer_into_irlite",
-      "target": "docs_shadow_phase3_port_plan_s7_shadowrenderer_java_canon_irl_redactor_shadow_shadowrenderer_java_893_ln_irlite_shadow_shadowrenderer_java",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_port_plan_s7_shadowrenderer_java_canon_irl_redactor_shadow_shadowrenderer_java_893_ln_irlite_shadow_shadowrenderer_java"
     },
     {
       "relation": "contains",
@@ -6469,9 +6507,9 @@
       "source_file": "docs/shadow-phase3-port-plan.md",
       "source_location": "L79",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_port_plan_2_orchestration_bring_canon_shadowbaker_shadowrenderer_into_irlite",
-      "target": "docs_shadow_phase3_port_plan_sibling_class_reconciliation_must_compile_against_target_package_no_import_lines",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_port_plan_sibling_class_reconciliation_must_compile_against_target_package_no_import_lines"
     },
     {
       "relation": "contains",
@@ -6479,9 +6517,9 @@
       "source_file": "docs/shadow-phase3-port-plan.md",
       "source_location": "L106",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_port_plan_3_new_file_irlitebbscastersource_java",
-      "target": "docs_shadow_phase3_port_plan_collect_clientworld_world_vec3d_campos_float_tickdelta_occludersink_sink_3_arms_in_this_order",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_port_plan_collect_clientworld_world_vec3d_campos_float_tickdelta_occludersink_sink_3_arms_in_this_order"
     },
     {
       "relation": "contains",
@@ -6489,9 +6527,9 @@
       "source_file": "docs/shadow-phase3-port-plan.md",
       "source_location": "L133",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_port_plan_3_new_file_irlitebbscastersource_java",
-      "target": "docs_shadow_phase3_port_plan_emitoccluder_object_caster_int_type_float_tickdelta_occluderbatch_batch_3_arms",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_port_plan_emitoccluder_object_caster_int_type_float_tickdelta_occluderbatch_batch_3_arms"
     },
     {
       "relation": "contains",
@@ -6499,9 +6537,9 @@
       "source_file": "docs/shadow-phase3-port-plan.md",
       "source_location": "L103",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_port_plan_3_new_file_irlitebbscastersource_java",
-      "target": "docs_shadow_phase3_port_plan_imports_to_carry_in",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_port_plan_imports_to_carry_in"
     },
     {
       "relation": "contains",
@@ -6509,9 +6547,9 @@
       "source_file": "docs/shadow-phase3-port-plan.md",
       "source_location": "L172",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_port_plan_5_build_wiring_changes_green_build_dod",
-      "target": "docs_shadow_phase3_port_plan_b5_irliteconfig_shadowbakebudget_the_only_hard_config_gap",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_port_plan_b5_irliteconfig_shadowbakebudget_the_only_hard_config_gap"
     },
     {
       "relation": "contains",
@@ -6519,9 +6557,9 @@
       "source_file": "docs/shadow-phase3-port-plan.md",
       "source_location": "L181",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_port_plan_5_build_wiring_changes_green_build_dod",
-      "target": "docs_shadow_phase3_port_plan_green_build_definition_of_done",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_port_plan_green_build_definition_of_done"
     },
     {
       "relation": "contains",
@@ -6529,9 +6567,9 @@
       "source_file": "docs/shadow-phase3-port-plan.md",
       "source_location": "L176",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "docs_shadow_phase3_port_plan_5_build_wiring_changes_green_build_dod",
-      "target": "docs_shadow_phase3_port_plan_no_build_gradle_mixins_json_accessor_changes_needed",
-      "confidence_score": 1.0
+      "target": "docs_shadow_phase3_port_plan_no_build_gradle_mixins_json_accessor_changes_needed"
     },
     {
       "relation": "shares_data_with",
@@ -7088,5 +7126,5 @@
       "source_file": "docs/shadow-caster-seam-spec.md"
     }
   ],
-  "built_at_commit": "e3fbe76257832d7417d2eeaab480c9b76b3a7b78"
+  "built_at_commit": "3025a903006192c9cae186442b99f5a3c810ed36"
 }

@@ -110,8 +110,13 @@
     "semantic_hash": "4762a549800cae759876939bf6426fa6"
   },
   ".claude/settings.json": {
-    "mtime": 1784746108.1979103,
-    "ast_hash": "270cb32d33aeeb2147892dc1a1ada37e",
+    "mtime": 1784760560.9312835,
+    "ast_hash": "6eec5b9480804b4fece64c0905ec0a83",
+    "semantic_hash": ""
+  },
+  ".claude/hooks/workforce-plugin-fetch.sh": {
+    "mtime": 1784760550.9054897,
+    "ast_hash": "63497d924d2d60d67deada830650884f",
     "semantic_hash": ""
   }
 }
