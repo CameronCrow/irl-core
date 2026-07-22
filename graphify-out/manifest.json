@@ -85,28 +85,33 @@
     "semantic_hash": "7d9739bf03ebc6b7214db8fe6287039d"
   },
   "docs/shadow-caster-seam-spec.md": {
-    "mtime": 1782321047.034922,
-    "ast_hash": "8ba61bea2586e4d56fb538959da39c20",
-    "semantic_hash": "8ba61bea2586e4d56fb538959da39c20"
+    "mtime": 1784209208.0552742,
+    "ast_hash": "61094cb97656f999955c2dd5ee420bbe",
+    "semantic_hash": ""
   },
   "docs/shadow-orchestration-lockstep.md": {
-    "mtime": 1782321047.034922,
-    "ast_hash": "5c42deee68a28302a29a4285f6605f4a",
-    "semantic_hash": "5c42deee68a28302a29a4285f6605f4a"
+    "mtime": 1784209208.0552742,
+    "ast_hash": "e1c5f78fa048e2fbb761977dbcda6968",
+    "semantic_hash": ""
   },
   "docs/shadow-phase3-audit-verdict.md": {
-    "mtime": 1782321047.0509079,
-    "ast_hash": "3efd3db2d6f0e9ef95374bdedc81eed9",
-    "semantic_hash": "3efd3db2d6f0e9ef95374bdedc81eed9"
+    "mtime": 1784209208.0552742,
+    "ast_hash": "8cc6b8a9c421c0cf04107b68c6381232",
+    "semantic_hash": ""
   },
   "docs/shadow-phase3-port-plan.md": {
-    "mtime": 1782321047.0509079,
-    "ast_hash": "852f59f670b8579d427011dcb6ad6d81",
-    "semantic_hash": "852f59f670b8579d427011dcb6ad6d81"
+    "mtime": 1784209208.0552742,
+    "ast_hash": "bd816c5c9e695864fe22c1852b819c14",
+    "semantic_hash": ""
   },
   "src/main/resources/assets/irl-core/icon.png": {
     "mtime": 1782321047.0509079,
     "ast_hash": "4762a549800cae759876939bf6426fa6",
     "semantic_hash": "4762a549800cae759876939bf6426fa6"
+  },
+  ".claude/settings.json": {
+    "mtime": 1784746108.1979103,
+    "ast_hash": "270cb32d33aeeb2147892dc1a1ada37e",
+    "semantic_hash": ""
   }
 }
